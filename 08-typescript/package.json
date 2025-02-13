@@ -1,0 +1,16 @@
+{
+  "name": "ts-random-pass-lbh",
+  "version": "1.0.4",
+  "main": "dist/short.js",
+  "types": "dist/short.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "dist"
+  ],
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
